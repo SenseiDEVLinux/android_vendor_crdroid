@@ -17,8 +17,7 @@ PRODUCT_PRODUCT_PROPERTIES += \
 PRODUCT_PACKAGES += \
     AvatarPicker \
     Backgrounds \
-    Glimpse \
-    LatinIME
+    Glimps
 
 # Charger
 PRODUCT_PACKAGES += \
